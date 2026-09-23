@@ -2,7 +2,7 @@
 
 A full-stack application that lets you upload documents and ask questions about them, grounded entirely in what you've actually uploaded. Built as a portfolio project to demonstrate authentication, file storage, database design, and integrating an LLM into a real product, not just a chatbot demo.
 
-**Live demo:** http://3.80.183.77:5173 *(replace with a domain if you set one up later)*
+**Live demo:** http://3.80.183.77:5173 
 
 ## Why cache-augmented generation instead of RAG
 
